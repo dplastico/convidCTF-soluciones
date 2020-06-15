@@ -1,5 +1,7 @@
 Cargando el binario en GDB podemos ver un compare al valor "pika" Si seteamso el valor del registro en GDB nos imprime una serie de "pika pika"
 
+>set $eax=VALOR
+
 Esto  es lenguaje "pikachu"
 
 pi pi pi pi pi pi pi pi pi pi pika pipi pi pipi pi pi pi pipi
