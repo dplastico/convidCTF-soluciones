@@ -1,0 +1,4 @@
+### LABOT ####
+Increible desafio, un binario con un buffer overflow y NX, pero el payload era procesado por un bot de discord!!!
+Esto hacia que hubiese intervencion limitada con el bot, por tanto el comando a ejecutar deberia permitirnos leer la flag remota de alguan forma
+Se hizo lo que se pudo, no se si es la mejor solucion, pero bueeeee, al menos funcionaba :D

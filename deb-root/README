@@ -1,0 +1,6 @@
+#### DEB ROOT ####
+Solucion del root de la maquina deb, habia un binario lol, con suid en el usario deb, el cual se exploto par alograr shell.
+
+La clave del usario deborah se obteria de un zip llamado 123456.zip
+
+Aca esta el exploit

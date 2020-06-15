@@ -1,0 +1,5 @@
+### VELOCIDAT ###
+
+Un reto facil si conoces como interactuar con binarios y algo de criptografia basica.
+Es un XOR que por propiedades se puede asumir que si A xor x = B; entonces x = A xor B
+Usando la misma logica resolvemos el desafio

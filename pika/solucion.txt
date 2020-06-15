@@ -1,0 +1,57 @@
+Cargando el binario en GDB podemos ver un compare al valor "pika" Si seteamso el valor del registro en GDB nos imprime una serie de "pika pika"
+
+Esto  es lenguaje "pikachu"
+
+pi pi pi pi pi pi pi pi pi pi pika pipi pi pipi pi pi pi pipi
+pi pi pi pi pi pi pi pipi pi pi pi pi pi pi pi pi pi pi pichu
+pichu pichu pichu ka chu pipi pipi pi pi pi pi pi pi pi pi pi
+pi pi pi pi pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pipi pipi ka ka ka ka ka ka
+ka ka ka pikachu pichu ka ka ka ka ka ka ka ka pikachu pichu
+pikachu pipi pikachu pichu pikachu pikachu pikachu pipi pikachu
+pichu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pipi pikachu pichu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pipi ka ka pikachu pikachu pikachu
+pikachu pichu pi pi pikachu pipi pipi pi pi pikachu pichu pi pi pikachu
+pikachu pikachu pichu pikachu pikachu pikachu pi pikachu ka ka ka pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pi pi pi
+pikachu pipi pikachu pichu ka ka ka pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pi pi pi
+pikachu ka pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pi pikachu pipi ka ka pikachu pikachu pichu ka ka
+ka pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pi pi pi pikachu pipi pi pi pikachu pikachu pichu ka pikachu
+pikachu pikachu pikachu pikachu pi pikachu pipi ka ka pikachu pikachu
+pichu ka ka ka pikachu pikachu pikachu pi pi pi pikachu pipi pi pi
+pikachu pikachu pichu ka pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pi pikachu ka ka ka pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pi pi pi pikachu pipi ka ka pikachu
+pikachu pichu ka pikachu pikachu pikachu pi pikachu pipi pi pi pikachu pikachu pichu
+pikachu pipi ka ka pikachu pikachu pichu pikachu pipi pi pi pikachu pichu ka
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pi pikachu pipi pikachu pichu ka pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pi pikachu ka ka
+ka pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pi pi pi pikachu pipi ka ka pikachu pikachu pichu pikachu
+pipi pi pi pikachu pikachu pichu ka pikachu pikachu pikachu pikachu pikachu pi pikachu pipi ka ka
+pikachu pikachu pichu ka ka ka pikachu pikachu pikachu pi pi pi pikachu pipi pi pi pikachu
+pikachu pichu ka pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pi pikachu
+ka ka ka pikachu pikachu pikachu pikachu pikachu pi pi pi pikachu ka ka ka pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pi pi pi
+pikachu pikachu pikachu pikachu pipi ka ka pikachu pikachu pichu ka pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu
+pikachu pikachu pikachu pi pikachu pikachu pipi pi pi pikachu pikachu pichu ka ka ka
+pikachu pikachu pikachu pikachu pikachu pikachu pikachu pikachu pi pi pi pikachu
+
+Al decodearlo obtenemos un string en lenguaje "brain fuck"
+
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>---.+++++++++.>+++++++++++++++++++++++.-----------.<<+++++++++++++++++++.>>-----.<<+++.>>------------.+++++++++++++++++.<<---.>>.<<.>-------------.>-----------------.+++++++++++++++++.<<.>>-----.<<+++.>>--------.+++++.+++++++++++++....<<-------------------..>>++++++++.
+
+
+El que al ser decodeado nos entrega la flag.
+
+
+CL{p1k4_p1p1?_p1k4chuuuu!!}
